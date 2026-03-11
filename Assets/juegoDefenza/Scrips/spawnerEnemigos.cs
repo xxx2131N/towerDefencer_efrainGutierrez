@@ -40,7 +40,7 @@ public class SpawnEnemigos : MonoBehaviour
         else
         {
             script.puntosDeRuta = camino3;
-            Destroy(gameObject); // se destruye al llegar al final
+
         }
     }
 }

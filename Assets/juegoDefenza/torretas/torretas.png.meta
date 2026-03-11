@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 58c7c4e5e54cd5f4789ccf94ee658656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3949876561546439501
+    second: torretas_0
+  - first:
+      213: -1268865731233678179
+    second: torretas_1
+  - first:
+      213: 6563831826715552767
+    second: torretas_2
+  - first:
+      213: -1829836891846910474
+    second: torretas_3
+  - first:
+      213: -8465404743614201137
+    second: torretas_4
+  - first:
+      213: 8100989661440529641
+    second: torretas_5
+  - first:
+      213: -7066667557738471772
+    second: torretas_6
+  - first:
+      213: -9186487124407422804
+    second: torretas_7
+  - first:
+      213: 3754544760810391859
+    second: torretas_8
+  - first:
+      213: -3562801279199894396
+    second: torretas_9
+  - first:
+      213: -975624535429574549
+    second: torretas_10
+  - first:
+      213: -3137594365596659852
+    second: torretas_11
+  - first:
+      213: 4992529161014491019
+    second: torretas_12
+  - first:
+      213: 2055557101057270057
+    second: torretas_13
+  - first:
+      213: -1400520362669766585
+    second: torretas_14
+  - first:
+      213: -6173059346851825689
+    second: torretas_15
+  - first:
+      213: -7080457905339345305
+    second: torretas_16
+  - first:
+      213: 5326318162990928444
+    second: torretas_17
+  - first:
+      213: 6887637731404150757
+    second: torretas_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torretas_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 742
+        width: 220
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41262d1383f29c0800000000000000
+      internalID: -3949876561546439501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 790
+        width: 178
+        height: 116
+      alignment: 9
+      pivot: {x: 0.7682941, y: 0.586672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c76261755146ee0800000000000000
+      internalID: -1268865731233678179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 764
+        width: 241
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffba8cc054a671b50800000000000000
+      internalID: 6563831826715552767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_3
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 824
+        width: 240
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd5f80ba0d1b96e0800000000000000
+      internalID: -1829836891846910474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 460
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc208f0cc37d48a80800000000000000
+      internalID: -8465404743614201137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 518
+        width: 178
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4564b1d2f7c6070800000000000000
+      internalID: 8100989661440529641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 498
+        width: 229
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae983b0c472eed90800000000000000
+      internalID: -7066667557738471772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_7
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 600
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0fef7e1aa038080800000000000000
+      internalID: -9186487124407422804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_8
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 526
+        width: 115
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33948694192da1430800000000000000
+      internalID: 3754544760810391859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 272
+        width: 217
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484abf3fc136e8ec0800000000000000
+      internalID: -3562801279199894396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_10
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 292
+        width: 169
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60909377a2e572f0800000000000000
+      internalID: -975624535429574549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 360
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f08555c860574d0800000000000000
+      internalID: -3137594365596659852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_12
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 321
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873c0502d6094540800000000000000
+      internalID: 4992529161014491019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_13
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ec08ea4ec68c10800000000000000
+      internalID: 2055557101057270057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_14
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 319
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7480e52862a509ce0800000000000000
+      internalID: -1400520362669766585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 60
+        width: 223
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7fd75fa33e45aa0800000000000000
+      internalID: -6173059346851825689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 108
+        width: 178
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76654298c092dbd90800000000000000
+      internalID: -7080457905339345305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 124
+        width: 238
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3219c13622eae940800000000000000
+      internalID: 5326318162990928444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_18
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 146
+        width: 241
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7fbe1460ec59f50800000000000000
+      internalID: 6887637731404150757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torretas_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 750
+        width: 229
+        height: 201
+      alignment: 9
+      pivot: {x: 0.6975676, y: 0.5625246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5574cb013e2594491a23b1621a8906
+      internalID: -1427092883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5618255a460baa14cb6871ee3714e7e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      torretas_0: -3949876561546439501
+      torretas_1: -1268865731233678179
+      torretas_10: -975624535429574549
+      torretas_11: -3137594365596659852
+      torretas_12: 4992529161014491019
+      torretas_13: 2055557101057270057
+      torretas_14: -1400520362669766585
+      torretas_15: -6173059346851825689
+      torretas_16: -7080457905339345305
+      torretas_17: 5326318162990928444
+      torretas_18: 6887637731404150757
+      torretas_19: -1427092883
+      torretas_2: 6563831826715552767
+      torretas_3: -1829836891846910474
+      torretas_4: -8465404743614201137
+      torretas_5: 8100989661440529641
+      torretas_6: -7066667557738471772
+      torretas_7: -9186487124407422804
+      torretas_8: 3754544760810391859
+      torretas_9: -3562801279199894396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
